@@ -1,11 +1,11 @@
 # SQL-Target_Case_Study
 ## Data Analysis for Target
 
-##Problem Statement:##
+## Problem Statement: ##
 
 Analyze a given dataset to extract valuable insights and provide actionable recommendations for Target.
 
-##Data Exploration & Analysis:##
+## Data Exploration & Analysis: ##
 
 **1. Data Understanding & Preparation:**
 
@@ -45,6 +45,6 @@ Analyze a given dataset to extract valuable insights and provide actionable reco
 * Summarize key findings and insights from the analysis.
 * Provide actionable recommendations for business improvement based on the analysis.
 
-##Tools & Techniques:##
+## Tools & Techniques: ##
 
 * SQL for data querying and manipulation
