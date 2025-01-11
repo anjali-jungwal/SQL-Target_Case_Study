@@ -1,7 +1,7 @@
 # SQL-Target_Case_Study
 ## Data Analysis for Target
 
-**Project Goal:**
+**Problem Statement:**
 
 Analyze a given dataset to extract valuable insights and provide actionable recommendations for Target.
 
